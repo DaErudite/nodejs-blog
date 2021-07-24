@@ -1,7 +1,7 @@
 {
-  "name": "crash-course",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "a node crash course",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-crash-course.git"
+    "url": ""
   },
-  "author": "net ninja",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-crash-course/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
+  "homepage": "",
   "dependencies": {
     "ejs": "^3.1.2",
     "express": "^4.17.1",

@@ -59,10 +59,10 @@
       display: block;
       margin: 40px 0;
       padding-left: 30px;
-      border-left: 6px solid crimson;
+      border-left: 6px solid blue;
     }
     .blogs a:hover h3{
-      color: crimson;
+      color: blue;
     }
 
     /* details styles */
@@ -102,7 +102,7 @@
     }
     .create-blog button{
       margin-top: 20px;
-      background: crimson;
+      background: blue;
       color: white;
       padding: 6px;
       border: 0;
